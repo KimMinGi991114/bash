@@ -1,0 +1,6 @@
+#!/bin/bash
+#testing th if statement
+if date
+then
+	echo "it worked"
+fi
